@@ -24,7 +24,7 @@ header {
   background: linear-gradient(145deg, #1a1a1a 0%, #2c2c2c 100%);
   color: #f5e7d9;
   padding: 2.5rem 0;
-  border-bottom: 6px solid #d4a373;
+  border-bottom: 6px solid #d4a373; 
   text-align: center;
   box-shadow: 0 8px 20px rgba(0,0,0,0.3);
 }
